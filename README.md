@@ -1,4 +1,4 @@
-## 📌 📁Project Overview
+## 📁Project Overview
 
 This project contains two simple **C programs** that demonstrate fundamental programming concepts such as **functions, arrays, pointers, loops, strings, user input, and basic processing**.
 
